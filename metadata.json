@@ -1,0 +1,6 @@
+{
+  "name": "Portal Penyelenggaraan Jalan Negeri MARRIS Negeri Sembilan",
+  "description": "Portal Rasmi dan Papan Pemuka Interaktif Pemantauan Projek Penyelenggaraan Jalan Negeri MARRIS Negeri Sembilan Darul Khusus bersama JKR, PBT, PDT, JPS dan Pejabat Kewangan Negeri Sembilan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
